@@ -8,7 +8,9 @@ public class TestCalculator {
 	public void testadd()
 	{
 		Assert.assertEquals(5,c.add(2, 5) );
-		
+
+		System.out.println("good morning");
+
 	}
 
 }
